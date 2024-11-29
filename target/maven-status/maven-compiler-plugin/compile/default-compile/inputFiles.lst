@@ -1,4 +1,6 @@
 /media/akin/HdFeroz1/Estudos/Projetos/BackEnd/Decisor/src/main/java/com/mycompany/decisor/Decisor.java
-/media/akin/HdFeroz1/Estudos/Projetos/BackEnd/Decisor/src/main/java/com/mycompany/decisor/cadastrarPrioridade.java
-/media/akin/HdFeroz1/Estudos/Projetos/BackEnd/Decisor/src/main/java/com/mycompany/decisor/cadastrarTarefa.java
-/media/akin/HdFeroz1/Estudos/Projetos/BackEnd/Decisor/src/main/java/com/mycompany/decisor/listarTarefas.java
+/media/akin/HdFeroz1/Estudos/Projetos/BackEnd/Decisor/src/main/java/com/mycompany/decisor/Main.java
+/media/akin/HdFeroz1/Estudos/Projetos/BackEnd/Decisor/src/main/java/dao/PrioridadeDao.java
+/media/akin/HdFeroz1/Estudos/Projetos/BackEnd/Decisor/src/main/java/dao/TarefaDao.java
+/media/akin/HdFeroz1/Estudos/Projetos/BackEnd/Decisor/src/main/java/model/Prioridade.java
+/media/akin/HdFeroz1/Estudos/Projetos/BackEnd/Decisor/src/main/java/model/Tarefa.java
